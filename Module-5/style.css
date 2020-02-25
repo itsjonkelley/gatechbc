@@ -1,0 +1,33 @@
+#center {
+    text-align: center
+}
+
+#red {
+    color: red
+}
+#blue {
+    color: blue
+}
+#green {
+    color: green
+}
+#big {
+    font-size: x-large
+}
+#tiny {
+    font-size: x-small
+}
+#bold {
+    font-weight: bold
+}
+#multiple {
+    font-size: xx-large; font-weight: bold; color: orange;
+}
+.styledFont {
+    color: limegreen; font-size: inherit; font-weight: bolder;
+}
+#styledImage {
+    border-style: solid;
+    border-color: orange;
+    border-width: thick;
+}
